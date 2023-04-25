@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-audience.json",
+  "id": "https://hipstas.github.io/The-speed-of-darkness/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-audience.json",
   "type": "AnnotationPage",
   "label": "Audience",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "46.099238,53.925610"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "102.888154"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "147.746626"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "198.236268,202.435784"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "244.908167"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "490.675326"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "655.124575"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "657.987881"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1770.191650"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2771.394562,2796.687105"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2811.671743,3084.163098"
