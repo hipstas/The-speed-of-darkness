@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-spaces.json",
+  "id": "https://hipstas.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-spaces.json",
   "type": "AnnotationPage",
   "label": "Spaces",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2448.396234,2451.804050"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2468.684622,2471.379173"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2494.362112,2498.641694"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2552.057213,2554.910268"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2578.844224,2582.014285"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2597.547581,2600.242133"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2618.152975,2621.957047"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2632.893756,2636.380823"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2644.781483,2647.476034"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2674.580052,2678.701130"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2693.917421,2697.879997"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2738.456771,2741.309826"
@@ -283,7 +283,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2767.462825,2769.523364"
