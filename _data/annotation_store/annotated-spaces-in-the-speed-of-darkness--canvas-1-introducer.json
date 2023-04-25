@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-introducer.json",
+  "id": "https://hipstas.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-introducer.json",
   "type": "AnnotationPage",
   "label": "Introducer",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "0.000000,46.767343"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2.147480,16.654901"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "16.798066,36.936657"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "37.700205,46.099238"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2798.309645,2810.430977"
