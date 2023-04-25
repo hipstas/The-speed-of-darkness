@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-rukeyser-dialogue.json",
+  "id": "https://hipstas.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-rukeyser-dialogue.json",
   "type": "AnnotationPage",
   "label": "Rukeyser Dialogue",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "55.739037,76.068515"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "80.745249,102.888154"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "104.415251,109.950978"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "111.478074,147.746626"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "150.991707"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "153.759570,198.236268"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "202.435784,237.272683"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "237.272683"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "246.912482,269.818935"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "269.818935,323.744545"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "325.748860"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "337.202087"
@@ -283,7 +283,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "346.746442,373.566082"
@@ -305,7 +305,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "375.284066,409.452859"
@@ -327,7 +327,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "456.029315"
@@ -349,7 +349,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "494.779399,564.834970"
@@ -371,7 +371,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "665.337035"
@@ -393,7 +393,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "705.423329"
@@ -415,7 +415,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "842.480277"
@@ -437,7 +437,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "888.293184"
@@ -459,7 +459,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1046.729489"
@@ -481,7 +481,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1156.966797,1184.168211"
@@ -503,7 +503,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "1279.802655"
@@ -525,7 +525,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1380.495607,1435.566540"
@@ -547,7 +547,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1557.066188,1577.013891"
@@ -569,7 +569,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1709.203217,1795.293306"
@@ -591,7 +591,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1795.388749,1851.795891"
@@ -613,7 +613,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1851.891335,2011.186631"
@@ -635,7 +635,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2076.565468"
@@ -657,7 +657,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2146.143821,2245.500564"
@@ -679,7 +679,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2300.857827"
@@ -701,7 +701,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2400.023682"
@@ -723,7 +723,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2411.476909"
